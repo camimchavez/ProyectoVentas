@@ -1,0 +1,14 @@
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Código\Ventas\Ventas\MVC_CS\bin\Debug\MVC_CS.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Código\Ventas\Ventas\MVC_CS\bin\Debug\MVC_CS.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Código\Ventas\Ventas\MVC_CS\bin\Debug\EntidadesCS.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Código\Ventas\Ventas\MVC_CS\bin\Debug\EntidadesCS.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Código\Ventas\Ventas\MVC_CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Código\Ventas\Ventas\MVC_CS\obj\Debug\MVC_CS.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Código\Ventas\Ventas\MVC_CS\obj\Debug\MVC_CS.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\bin\Debug\MVC_CS.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\bin\Debug\MVC_CS.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\bin\Debug\EntidadesCS.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\bin\Debug\EntidadesCS.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\obj\Debug\MVC_CS.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\obj\Debug\MVC_CS.pdb

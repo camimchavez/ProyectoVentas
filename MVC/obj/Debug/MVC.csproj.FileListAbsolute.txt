@@ -1,0 +1,49 @@
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\bin\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\bin\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\obj\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\MVC\obj\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\MVC\obj\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\MVC\bin\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\MVC\bin\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\MVC\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\MVC\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\MVC\obj\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\MVC\obj\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\MVC\bin\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\MVC\bin\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\MVC\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\MVC\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\MVC\obj\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\MVC\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\MVC\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\MVC\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\MVC\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\MVC\obj\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\MVC\obj\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\MVC\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\MVC\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\MVC\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\MVC\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\MVC\obj\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\MVC\obj\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\MVC\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\MVC\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\MVC\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\MVC\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\MVC\obj\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\MVC\obj\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\MVC\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\MVC\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\MVC\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\MVC\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\MVC\obj\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\MVC\obj\Debug\MVC.pdb

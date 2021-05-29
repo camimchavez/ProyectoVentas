@@ -1,0 +1,5 @@
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Excepciones\bin\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Excepciones\bin\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Excepciones\obj\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Excepciones\obj\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache

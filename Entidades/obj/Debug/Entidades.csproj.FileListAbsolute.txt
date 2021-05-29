@@ -1,0 +1,27 @@
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Entidades\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Entidades\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Entidades\obj\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Entidades\obj\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Entidades\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Entidades\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Entidades\obj\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Entidades\obj\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Entidades\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Entidades\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Entidades\obj\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Entidades\obj\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Entidades\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Entidades\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Entidades\obj\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Entidades\obj\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Entidades\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Entidades\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Entidades\obj\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Entidades\obj\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Entidades\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Entidades\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Entidades\obj\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Entidades\obj\Debug\Entidades.pdb

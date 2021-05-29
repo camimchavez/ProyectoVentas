@@ -1,0 +1,77 @@
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\bin\Debug\Modelo.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\bin\Debug\Modelo.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\bin\Debug\Excepciones.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\bin\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\bin\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\bin\Debug\Excepciones.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\obj\Debug\Modelo.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\Modelo\obj\Debug\Modelo.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\obj\Debug\Modelo.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\bin\Debug\Modelo.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\bin\Debug\Modelo.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\bin\Debug\Excepciones.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\bin\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\bin\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\bin\Debug\Excepciones.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\Modelo\obj\Debug\Modelo.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\obj\Debug\Modelo.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Modelo.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Modelo.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Excepciones.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\bin\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\bin\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Excepciones.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\Modelo\obj\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Modelo.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\bin\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\obj\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\Modelo\obj\Debug\Modelo.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\bin\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\bin\Debug\Modelo.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\bin\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\bin\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\obj\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\Modelo\obj\Debug\Modelo.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\bin\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\bin\Debug\Modelo.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\bin\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\bin\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\obj\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\Modelo\obj\Debug\Modelo.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\bin\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\bin\Debug\Modelo.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\bin\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\bin\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\obj\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\Modelo\obj\Debug\Modelo.pdb

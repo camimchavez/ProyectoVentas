@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Interface Name="Ventas.IControladorVentas">
+    <Position X="1.25" Y="3.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAgAgEAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IControladorVentas.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ventas.IModeloVentas">
+    <Position X="5.25" Y="3.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAAAAAAAAAACAAAIAAAAAAAQAAAACAAAAAAAAA=</HashCode>
+      <FileName>IModeloVentas.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ventas.IVistaVentas">
+    <Position X="3.25" Y="5.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>IVistaVentas.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

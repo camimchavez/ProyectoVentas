@@ -1,0 +1,106 @@
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\bin\Debug\Paneles.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\bin\Debug\Paneles.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\bin\Debug\Excepciones.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\bin\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\bin\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\bin\Debug\Excepciones.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\obj\Debug\Paneles.csproj.GenerateResource.Cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\obj\Debug\Paneles.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\obj\Debug\Paneles.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\obj\Debug\Paneles.PanelCliente.resources
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Ventas\PanelesVentas\obj\Debug\Paneles.PanelTodosLosClientes.resources
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\obj\Debug\Paneles.PanelCliente.resources
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\obj\Debug\Paneles.PanelTodosLosClientes.resources
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\obj\Debug\Paneles.csproj.GenerateResource.Cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\obj\Debug\Paneles.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\bin\Debug\Paneles.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\bin\Debug\Paneles.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\bin\Debug\Excepciones.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\bin\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\bin\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\bin\Debug\Excepciones.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\Eventos\PanelesVentas\obj\Debug\Paneles.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\ResolveAssemblyReference.cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.PanelCliente.resources
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.PanelTodosLosClientes.resources
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.csproj.GenerateResource.Cache
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Paneles.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Paneles.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Entidades.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Excepciones.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\MVC.dll
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\MVC.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Excepciones.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Entidades.pdb
+C:\Educación\Microsoft\Curso avanzado de desarrollo en capas\Ejercicios\Soluciones\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Paneles.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Paneles.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.PanelCliente.resources
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.PanelTodosLosClientes.resources
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.csproj.GenerateResource.Cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\EventosDelControladorALaVista\PanelesVentas\obj\Debug\Paneles.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\bin\Debug\Paneles.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\bin\Debug\Paneles.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\bin\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\bin\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\obj\Debug\Paneles.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\obj\Debug\Paneles.PanelCliente.resources
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\obj\Debug\Paneles.PanelTodosLosClientes.resources
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\obj\Debug\Paneles.csproj.GenerateResource.Cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\obj\Debug\Paneles.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio8\CS\Ventas\PanelesVentas\obj\Debug\Paneles.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\Paneles.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\Paneles.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\ServicioVentas.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\ServicioVentas.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\bin\Debug\Modelo.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\obj\Debug\Paneles.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\obj\Debug\Paneles.PanelCliente.resources
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\obj\Debug\Paneles.PanelTodosLosClientes.resources
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\obj\Debug\Paneles.csproj.GenerateResource.Cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\obj\Debug\Paneles.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio9\CS\Ventas\PanelesVentas\obj\Debug\Paneles.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\Paneles.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\Paneles.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\Entidades.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\Excepciones.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\MVC.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\ServicioVentas.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\Modelo.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\Entidades.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\Excepciones.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\MVC.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\ServicioVentas.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\bin\Debug\Modelo.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\obj\Debug\Paneles.csprojResolveAssemblyReference.cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\obj\Debug\Paneles.PanelCliente.resources
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\obj\Debug\Paneles.PanelTodosLosClientes.resources
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\obj\Debug\Paneles.csproj.GenerateResource.Cache
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\obj\Debug\Paneles.dll
+C:\Educacion\Acomodo\Trabajo\Microsoft\Desarrollo en .Net\Nuevo\Ejercicios\Soluciones\Laboratorio10\CS\Ventas\PanelesVentas\obj\Debug\Paneles.pdb
